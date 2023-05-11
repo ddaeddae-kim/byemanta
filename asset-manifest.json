@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/byemanta/static/css/main.aa995dcc.css",
+    "main.css": "/byemanta/static/css/main.7164a702.css",
     "main.js": "/byemanta/static/js/main.943e3035.js",
     "static/js/787.eca6fc73.chunk.js": "/byemanta/static/js/787.eca6fc73.chunk.js",
     "static/media/8.png": "/byemanta/static/media/8.aec61757994a8ff201e9.png",
     "static/media/15.png": "/byemanta/static/media/15.a7043fd93166e2cfe27b.png",
     "static/media/4.png": "/byemanta/static/media/4.f9ca32e3475444bb6849.png",
     "static/media/17.png": "/byemanta/static/media/17.3379c5b158d3f79c91fd.png",
-    "static/media/2.png": "/byemanta/static/media/2.8d54fceb410790ed644f.png",
     "static/media/18.png": "/byemanta/static/media/18.ec377f700f5004045fa3.png",
+    "static/media/2.png": "/byemanta/static/media/2.d4cbf8886d6d038173d7.png",
     "static/media/19.png": "/byemanta/static/media/19.1aef76aff9988b1a591d.png",
     "static/media/12.png": "/byemanta/static/media/12.ebd78ecb94f383d8ec58.png",
     "static/media/5.png": "/byemanta/static/media/5.dbe171b2589169fa2b50.png",
@@ -24,12 +24,12 @@
     "static/media/7.png": "/byemanta/static/media/7.7b661b12ba143e4d9bb1.png",
     "static/media/logo.svg": "/byemanta/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/byemanta/index.html",
-    "main.aa995dcc.css.map": "/byemanta/static/css/main.aa995dcc.css.map",
+    "main.7164a702.css.map": "/byemanta/static/css/main.7164a702.css.map",
     "main.943e3035.js.map": "/byemanta/static/js/main.943e3035.js.map",
     "787.eca6fc73.chunk.js.map": "/byemanta/static/js/787.eca6fc73.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa995dcc.css",
+    "static/css/main.7164a702.css",
     "static/js/main.943e3035.js"
   ]
 }
