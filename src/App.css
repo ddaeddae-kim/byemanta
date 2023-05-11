@@ -36,3 +36,126 @@
     transform: rotate(360deg);
   }
 }
+
+.parallax-container {
+  position: relative;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.parallax-container .parallax-title{
+  color: white;
+  font-weight: bold;
+  width: 80%;
+  text-align: center;
+  font-size: 50px;
+}
+
+body{
+  margin:0;
+}
+.container{
+  position: relative;
+  width: 100vw;
+  height:100vh;
+  top: 0;
+}
+
+
+.character{
+  position: absolute;
+  z-index: 2;
+  width: 100vw;
+  height:100vh;
+  top: 0;
+  background-size: 70%;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+@media (max-width: 1200px) {
+  .character {
+    background-size: 840px;
+  }
+}
+
+.c1{
+  background-image: url(../public/1.png);
+  background-color: #617A55;
+}
+.c2{
+  background-image: url(../public/2.png);
+  background-color: #20262E;
+}
+.c3{
+  background-image: url(../public/3.png);
+  background-color: #FFDCB6;
+}
+.c4{
+  background-image: url(../public/4.png);
+  background-color: #B8D5FF;
+}
+.c5{
+  background-image: url(../public/5.png);
+  background-color: #F6C391;
+}
+.c6{
+  background-image: url(../public/6.png);
+  background-color: #19A7CE;
+}
+.c7{
+  background-image: url(../public/7.png);
+  background-color: #FFEEB3;
+}
+.c8{
+  background-image: url(../public/8.png);
+  background-color: #F97B22;
+}
+.c9{
+  background-image: url(../public/9.png);
+  background-color: #A6D0DD;
+}
+.c10{
+  background-image: url(../public/10.png);
+  background-color: #FCC8D1;
+}
+.c11{
+  background-image: url(../public/11.png);
+  background-color: #ADE4DB;
+}
+.c12{
+  background-image: url(../public/12.png);
+  background-color: #B0DAFF;
+}
+.c13{
+  background-image: url(../public/13.png);
+  background-color: #FFB4B4;
+}
+.c14{
+  background-image: url(../public/14.png);
+  background-color: #B0DAFF;
+}
+.c15{
+  background-image: url(../public/15.png);
+  background-color: #F5C6EC;
+}
+.c16{
+  background-image: url(../public/16.png);
+  background-color: white;
+}
+.c17{
+  background-image: url(../public/17.png);
+  background-color: #3F497F;
+}
+.c18{
+  background-image: url(../public/18.png);
+  background-color: #FCC8D1;
+}
+.c19{
+  background-image: url(../public/19.png);
+  background-color: #FCC2FC;
+}
